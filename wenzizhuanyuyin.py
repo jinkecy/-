@@ -17,8 +17,8 @@ else:
     from urllib2 import URLError
     from urllib import urlencode
 
-API_KEY = '1vEsTMtnQefjyny3BbfCsNq5'
-SECRET_KEY = 'VzFfV57cl86MRIg0wnctobnGZDncSRXR'
+API_KEY = '1vEsTMtnQefjyn1y3Bb2fCsNq5'
+SECRET_KEY = 'VzFfV57cl86MRIg0wnc21tobnGZDncSRXR'
 
 TEXT = "你在干嘛。"
 
