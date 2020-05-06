@@ -2,7 +2,7 @@
 import requests  # 导入requests库
 import json  # 导入json库
 
-key = 'a3e6642bd03d49fb8796b31e0495bc24'  # 单引号里写你注册的的图灵机器人key
+key = 'a3e6642bd03d49fb8796b31e1120495bc24'  # 单引号里写你注册的的图灵机器人key
 
 while True:  # 主循
     info = input('\n我：')  # 输入对话信息
